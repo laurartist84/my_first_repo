@@ -1,0 +1,48 @@
+
+
+.block_element {
+    width: 1000px;
+    background-color: lightskyblue;
+    margin-left: auto;
+    margin:0 auto;
+    text-align: center;
+    padding: 35px;
+  }
+
+  
+  
+  section {
+    background-color: lightskyblue;
+    padding: 25px;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  
+  img {
+    width: 200px;
+  }
+  input {
+    display: block;
+    width: 100%;
+    padding: 4%;
+    -webkit-appearance: none;
+    /* max-width: 330px; */
+    box-sizing: border-box;
+  }
+  h3 {
+    margin: 10px 0px;
+  }
+  .submit {
+    margin-top: 20px;
+  }
+
+  h1 {
+    font-size: 50px;
+  }
+
+  form {
+    width: 100px;
+   }
+  
